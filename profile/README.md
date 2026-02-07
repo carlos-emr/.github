@@ -4,8 +4,8 @@ This is the organization profile for Carlos EMR.
 
 ## About
 
-This organization hosts repositories and projects related to Carlos EMR.
+Carlos EMR is focused on developing Electronic Medical Records (EMR) solutions and healthcare-related software projects. Our repositories contain tools, libraries, and applications designed to support healthcare technology initiatives.
 
 ## Get Started
 
-Explore our repositories to learn more about what we're building.
+Explore our repositories to discover our latest projects and contributions. Check out our pinned repositories below to see what we're currently working on.
